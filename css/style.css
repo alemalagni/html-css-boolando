@@ -6,6 +6,12 @@
     font-family: sans-serif;
     color: #ffffff;
 }
+
+/* classi utili */
+.nero{
+    color: #000000;
+}
+
 /* Regole generali */
 a {
     text-decoration: none;
