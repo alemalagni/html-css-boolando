@@ -39,6 +39,7 @@ header > div {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    justify-items: center;
 }
 
 .logo{
@@ -72,7 +73,7 @@ header > div {
     padding-bottom: 27px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 /* Stile Card */
