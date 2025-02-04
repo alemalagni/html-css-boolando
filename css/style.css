@@ -41,6 +41,15 @@ header > div {
     align-items: center;
 }
 
+.logo{
+    width: 10%;
+    padding: 15px 0px 15px 0px;
+}
+
+.logo > img {
+    width: 100%;
+}
+
 /* Blocco finale */
 .blocco{
     background-color: #000000;
