@@ -54,11 +54,16 @@ header > div {
     font-weight: bold;
 }
 
+.card-bottom > .prezzo {
+    font-size: 12px;
+}
+
 .card-bottom > .prezzo > .attuale {
     color: #ff0000;
+    font-weight: bold;
 }
 
 .card-bottom > .prezzo > .partenza {
-    text-decoration: dashed;
+    text-decoration: line-through;
 }
     
