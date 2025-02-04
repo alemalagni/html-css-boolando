@@ -72,10 +72,6 @@ header > div {
     z-index: 2;
 }
 
-.card-bottom > .marca {
-    font-size: 12px;
-}
-
 .card-bottom > .nome {
     font-size: 13px;
     font-weight: bold;
