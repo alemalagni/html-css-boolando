@@ -72,7 +72,7 @@ header > div {
     padding-bottom: 27px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 /* Stile Card */
