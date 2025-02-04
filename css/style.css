@@ -91,3 +91,7 @@ header > div {
     background-color: #ff0000;
     font-weight: bold;
 }
+
+.etichette > .sostenibilità {
+    background-color: green;
+}
