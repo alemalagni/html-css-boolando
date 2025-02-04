@@ -21,13 +21,13 @@ a {
     text-decoration: none;
 }
 
-/*.margine{
-    width: 1200px;
+.margine{
+    width: 1300px;
     margin: auto;
-}*/
+}
 
 /* Header */
-header > div {
+.testa {
     display: flex;
     background-color: orangered;
     justify-content: space-around;
