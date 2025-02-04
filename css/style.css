@@ -45,13 +45,13 @@ header > div {
 
 /* Stile Card */
 
-.imagecard > img{
+.imagecard {
     width: calc(100% / 3);
     position: relative;
     display: inline-block;
 }
 
-.imagecard > .hover{
+.imagecard > .seconda{
     display: none;
     position: absolute;
     z-index: 1;
@@ -59,7 +59,7 @@ header > div {
     top: 30px;
 }
 
-.imagecard:hover .hover{
+.imagecard:hover .seconda{
     display: inline;
 }
 
