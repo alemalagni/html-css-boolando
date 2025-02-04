@@ -108,7 +108,7 @@ header > div {
     position: absolute;
     z-index: 2;
     left: 90%;
-    top: 10%;
+    top: 2%;
     padding: 10px;
 }
 
@@ -133,7 +133,7 @@ header > div {
 .etichette {
     font-weight: bold;
     position: absolute;
-    top: 90%;
+    top: 88%;
     z-index: 2;
     display: flex;
 }
