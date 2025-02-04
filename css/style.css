@@ -45,6 +45,10 @@ header > div {
     width: calc(100% / 3);
 }
 
+.card-top > .preferiti {
+    background-color: white;
+}
+
 .card-bottom > .marca {
     font-size: 12px;
 }
