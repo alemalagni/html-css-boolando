@@ -1,5 +1,19 @@
+/* Reset */
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+/* Regole generali */
+a {
+    text-decoration: none;
+}
+
+/* Header */
+header > div {
+    display: flex;
+    background-color: orangered;
+    justify-content: space-around;
 }
