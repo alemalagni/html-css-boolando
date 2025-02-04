@@ -52,7 +52,7 @@ header > div {
     position: absolute;
     z-index: 1;
     left: 0px;
-    top: 40px;
+    top: 30px;
 }
 
 .card-top:hover .hover{
