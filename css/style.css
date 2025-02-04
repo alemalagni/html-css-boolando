@@ -44,6 +44,9 @@ header > div {
 }
 
 /* Stile Card */
+.card{
+    width: calc(100% / 3);
+}
 
 .imagecard {
     position: relative;
@@ -51,7 +54,7 @@ header > div {
 }
 
 .imagecard > img {
-    width: calc(100% / 3);
+    width: calc(70%);
 }
 
 .imagecard > .seconda{
