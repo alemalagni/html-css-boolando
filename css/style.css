@@ -25,7 +25,10 @@ header > div {
 
 /* Blocco finale */
 .blocco{
-    display: flex;
     background-color: #000000;
-    justify-content: space-between;
+}
+
+.blocco > div {
+    display: flex;
+    justify-content: space-around;
 }
