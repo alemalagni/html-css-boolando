@@ -87,13 +87,14 @@ header > div {
 }
 
 .etichette {
-    width: fit-content;
     font-weight: bold;
 }
 .etichette > .sconto {
+    width: fit-content;
     background-color: #ff0000;
 }
 
 .etichette > .sostenibilità {
+    width: fit-content;
     background-color: green;
 }
