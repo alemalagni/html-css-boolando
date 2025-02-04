@@ -17,3 +17,10 @@ header > div {
     background-color: orangered;
     justify-content: space-around;
 }
+
+/* Blocco finale */
+.blocco{
+    display: flex;
+    background-color: #000000;
+    justify-content: space-between;
+}
