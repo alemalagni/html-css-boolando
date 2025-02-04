@@ -86,10 +86,12 @@ header > div {
     text-decoration: line-through;
 }
 
-.etichette > .sconto {
+.etichette {
     width: fit-content;
-    background-color: #ff0000;
     font-weight: bold;
+}
+.etichette > .sconto {
+    background-color: #ff0000;
 }
 
 .etichette > .sostenibilità {
