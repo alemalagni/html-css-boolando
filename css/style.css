@@ -12,6 +12,10 @@
     color: #000000;
 }
 
+.dodici {
+    font-size: 12px;
+}
+
 /* Regole generali */
 a {
     text-decoration: none;
@@ -88,4 +92,10 @@ header > div {
 
 .card-bottom > .prezzo > .partenza {
     text-decoration: line-through;
+}
+
+.etichette > .sconto {
+    width: fit-content;
+    background-color: #ff0000;
+    font-weight: bold;
 }
