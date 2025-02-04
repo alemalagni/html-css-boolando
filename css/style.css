@@ -51,11 +51,13 @@ header > div {
 .cards{
     padding: 57px 0px;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 /* Stile Card */
 .card{
-    width: calc(100% / 3);
+    width: calc(90% / 3);
 }
 
 .imagecard {
