@@ -43,10 +43,13 @@ header > div {
 
 .card-top > img{
     width: calc(100% / 3);
+    position: relative;
 }
 
 .card-top > .preferiti {
-    background-color: white;
+    background-color: #ffffff;
+    width: fit-content;
+    position: absolute;
 }
 
 .card-bottom > .marca {
