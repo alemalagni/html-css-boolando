@@ -27,9 +27,12 @@ a {
 }
 
 /* Header */
+header {
+    background-color: orangered;
+}
+
 header > div {
     display: flex;
-    background-color: orangered;
     justify-content: space-around;
 }
 
