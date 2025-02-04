@@ -44,6 +44,17 @@ header > div {
 .card-top > img{
     width: calc(100% / 3);
     position: relative;
+    display: inline-block;
+}
+
+.card-top > .hover{
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+
+.card-top:hover .hover{
+    display: inline;
 }
 
 .card-top > .preferiti {
@@ -75,4 +86,3 @@ header > div {
 .card-bottom > .prezzo > .partenza {
     text-decoration: line-through;
 }
-    
