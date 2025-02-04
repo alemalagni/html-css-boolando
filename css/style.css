@@ -27,7 +27,7 @@ a {
 }
 
 /* Header */
-.testa {
+header > div {
     display: flex;
     background-color: orangered;
     justify-content: space-around;
