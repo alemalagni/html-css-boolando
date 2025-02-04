@@ -49,7 +49,8 @@ header > div {
 /* Main */
 
 .cards{
-    padding: 57px 0px;
+    padding-top: 57px;
+    padding-bottom: 27px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -58,6 +59,7 @@ header > div {
 /* Stile Card */
 .card{
     width: calc(90% / 3);
+    padding-bottom: 30px;
 }
 
 .imagecard {
