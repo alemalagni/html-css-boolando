@@ -16,6 +16,10 @@
     font-size: 12px;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 /* Regole generali */
 a {
     text-decoration: none;
