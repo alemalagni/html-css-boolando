@@ -74,6 +74,8 @@ header > div {
     width: fit-content;
     position: absolute;
     z-index: 2;
+    left: 100%;
+    top: 0px;
 }
 
 .card-bottom > .nome {
