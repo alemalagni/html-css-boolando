@@ -121,12 +121,12 @@ header > div {
 .etichette > .sconto {
     width: fit-content;
     background-color: #ff0000;
+    margin-right: 5px;
     padding: 5px;
 }
 
 .etichette > .sostenibilità {
     width: fit-content;
     background-color: green;
-    margin-left: 5px;
     padding: 5px;
 }
