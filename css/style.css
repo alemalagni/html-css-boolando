@@ -21,10 +21,10 @@ a {
     text-decoration: none;
 }
 
-margine{
-    width: 1400px;
+/*.margine{
+    width: 1200px;
     margin: auto;
-}
+}*/
 
 /* Header */
 header > div {
@@ -46,9 +46,12 @@ header > div {
 /* Stile Card */
 
 .imagecard {
-    width: calc(100% / 3);
     position: relative;
     display: inline-block;
+}
+
+.imagecard > img {
+    width: calc(100% / 3);
 }
 
 .imagecard > .seconda{
