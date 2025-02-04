@@ -44,3 +44,17 @@ header > div {
 .card-top > img{
     width: calc(100% / 3);
 }
+
+.card-bottom > .marca {
+    font-size: 12px;
+}
+
+.card-bottom > .nome {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.card-bottom > .prezzo > .attuale{
+    color: #ff0000;
+}
+    
