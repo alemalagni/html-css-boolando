@@ -69,7 +69,7 @@ header > div {
     display: inline;
 }
 
-.card-top > .preferiti {
+.imagecard > .preferiti {
     background-color: #ffffff;
     width: fit-content;
     position: absolute;
