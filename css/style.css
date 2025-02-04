@@ -46,6 +46,12 @@ header > div {
     justify-content: space-around;
 }
 
+/* Main */
+
+.cards{
+    padding: 0px, 15px;
+}
+
 /* Stile Card */
 .card{
     width: calc(100% / 3);
