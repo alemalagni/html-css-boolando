@@ -79,6 +79,11 @@ header > div {
     z-index: 2;
     left: 65%;
     top: 10%;
+    padding: 5px;
+}
+
+.preferiti > i {
+    font-size: 20px;
 }
 
 .card-bottom > .nome {
